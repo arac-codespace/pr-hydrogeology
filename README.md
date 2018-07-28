@@ -22,6 +22,18 @@ https://pragwater.com/goes-puerto-rico-water-and-energy-balance-goes-web-algorit
 Methods for Water Balance Computations
 http://unesdoc.unesco.org/images/0001/000115/011523eo.pdf
 
+Groundwater Quality Survey of the South Coast Aquifer of PR, April 2 through May 30 2007
+https://pubs.usgs.gov/sim/3092/pdf/sim-3092.pdf
+
+Solid Waste Landfill Facilities
+https://hifld-geoplatform.opendata.arcgis.com/datasets/solid-waste-landfill-facilities/data?geometry=-68.126%2C17.701%2C-64.421%2C18.615&selectedAttribute=STATUS&where=STATE%20like%20%27%25PR%25%27%20AND%20STATUS%20%3D%20%27OPEN%27
+
+Hydrologic Information
+https://pr.water.usgs.gov/infodata/
+
+Water Quality Data
+https://www.waterqualitydata.us
+
 ---
 
 # Libraries
